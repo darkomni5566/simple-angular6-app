@@ -10,7 +10,7 @@ This App is a Simple Angular 6 App which uses
 6. Communication from parent to child component
 
 This Applications template can be copied and used to build other bigger applications.
-
+gaurav
 The CSS used is very basic since the main aim of this project is to focus on angular 6
 
 ## Live Application url
